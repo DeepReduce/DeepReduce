@@ -1,0 +1,2 @@
+reduced test : 981, coverage : -, cross entropy : 0.010984695387102592, accuracy : 0.9459734964322121
+reduced test : 1168, kl : 0.0009986149253686488, accuracy : 0.9460616438356164

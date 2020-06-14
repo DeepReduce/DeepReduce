@@ -1,0 +1,9 @@
+reduced test : 23, coverage : -, cross entropy : 8.505174747755946, accuracy : 1.0
+reduced test : 52, kl : 0.04761519569203119, accuracy : 1.0
+reduced test : 101, kl : 0.009852954293960282, accuracy : 1.0
+reduced test : 124, kl : 0.004930484228245142, accuracy : 1.0
+reduced test : 250, kl : 0.0009981398389595413, accuracy : 0.996
+reduced test : 326, kl : 0.000879186988911548, accuracy : 0.99079754601227
+reduced test : 335, kl : 0.0007856261788775862, accuracy : 0.991044776119403
+reduced test : 343, kl : 0.0006912750324977871, accuracy : 0.9912536443148688
+reduced test : 400, kl : 0.0005738458056223088, accuracy : 0.9925
